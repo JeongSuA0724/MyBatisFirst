@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3226776d-30ce-411f-88bc-7e33b24914de/console.sql" dialect="MariaDB" />
+  </component>
+</project>
